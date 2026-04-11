@@ -62,10 +62,5 @@ class TestCSVHandler(unittest.TestCase):
         self.assertEqual(id1,1)
         self.assertEqual(id2,2)
 
-
-
-
-
-
 if __name__=='__main__':
     unittest.main()
