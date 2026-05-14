@@ -134,6 +134,4 @@ Contributing
 License
 - There is no explicit LICENSE file in the repository. If you want an open license, add a LICENSE (e.g., MIT) at the root.
 
-Contact
-- For questions about this repository, open an issue on GitHub: https://github.com/Xaralampos-Makridhs/SmartPayroll/issues
 
